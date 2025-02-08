@@ -84,11 +84,11 @@
         gaming {
             display-name = "Gaming";
             bindings = <
-&trans    &trans &trans &trans  &trans  &trans                           &trans      &trans    &trans    &trans   &trans    &trans
-&trans    &trans &trans &trans  &trans  &trans                           &trans      &trans    &trans    &trans   &trans    &trans
-&trans    &kp A  &kp S  &kp D   &kp  F  &trans                           &trans      &trans    &trans    &trans   &trans    &trans
-&trans    &trans &trans &trans  &trans  &trans    &trans       &trans    &trans      &trans    &trans    &trans   &trans    &trans
-                        &trans  &trans  &trans    &kp SPACE    &trans    &trans      &trans    &trans
+&trans    &trans &trans &trans  &trans  &trans                             &trans      &trans    &trans    &trans   &trans    &trans
+&trans    &trans &trans &trans  &trans  &trans                             &trans      &trans    &trans    &trans   &trans    &trans
+&trans    &kp A  &kp S  &kp D   &kp  F  &trans                             &trans      &trans    &trans    &trans   &trans    &trans
+&trans    &trans &trans &trans  &trans  &trans    &trans       &trans      &trans      &trans    &trans    &trans   &trans    &trans
+                        &trans  &trans  &trans    &kp SPACE    &kp BSPC    &trans      &trans    &trans
 
             >;
          };
